@@ -312,9 +312,7 @@ body {
 .info-group-name {
     font-size: 17px;
     font-weight: 750;
-    display: flex;
-    text-align: center;
-    justify-content: center;
+    
 }
 
 .info-group-ms {
@@ -374,6 +372,13 @@ body {
 
 
     }
+    .info-group-name {
+        font-size: 17px;
+        font-weight: 750;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
 
 }
 
@@ -412,7 +417,7 @@ body {
     padding: 10px;
     width: 80px;
     border-radius: 10px;
-    color: rgb(29, 26, 26);
+    color: black;
 
 }
 
@@ -420,7 +425,7 @@ body {
 
     font-weight: 100;
     padding: 10px;
-    color: rgb(29, 26, 26);
+    color: black;
 }
 
 .Git-1-homepage {
@@ -433,6 +438,7 @@ body {
 .Git-1-star-and-fork {
     display: flex;
     flex-wrap: wrap;
+    color: black;
 
 
 }
@@ -443,7 +449,7 @@ body {
     font-weight: 100;
     padding: 10px;
     width: 80px;
-
+    color: black;
     flex-basis: 50%;
 
 }
@@ -454,7 +460,7 @@ body {
     font-weight: 100;
     padding: 10px;
     width: 80px;
-
+    color: black;
     flex-basis: 50%;
 
 
@@ -470,7 +476,7 @@ body {
 
 .Git-1-Release h6 {
     margin-top: 20px;
-    color: rgb(107, 97, 97);
+    color: black;
 }
 
 .Git-2 {
