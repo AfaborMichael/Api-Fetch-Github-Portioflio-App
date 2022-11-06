@@ -287,10 +287,11 @@ body {
     justify-content: space-evenly;
     width: 80%;
     margin-left: 10px;
+  
 }
 
 .info-group button {
-    color: #fff !important;
+    color: #fff ;
     background: linear-gradient(0deg, rgba(73, 139, 173, 1) 94%, rgba(123, 213, 223, 1) 100%);
     font-size: 14px;
     user-select: none;
@@ -299,17 +300,21 @@ body {
     padding: 0.6em 1em;
     border-radius: 3px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
 
 }
 
 .info-group-login {
     font-size: 20px;
+    
 }
 
 .info-group-name {
     font-size: 17px;
     font-weight: 750;
-
+    display: flex;
+    text-align: center;
+    justify-content: center;
 }
 
 .info-group-ms {
@@ -407,7 +412,7 @@ body {
     padding: 10px;
     width: 80px;
     border-radius: 10px;
-    color: rgb(107, 97, 97);
+    color: rgb(29, 26, 26);
 
 }
 
@@ -415,7 +420,7 @@ body {
 
     font-weight: 100;
     padding: 10px;
-    color: rgb(107, 97, 97);
+    color: rgb(29, 26, 26);
 }
 
 .Git-1-homepage {
